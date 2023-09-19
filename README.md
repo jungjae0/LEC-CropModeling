@@ -1,1 +1,8 @@
-# LEC-CropModeling
+### 2023-02 작물모델링 실습
+
+#### Task List
+| 주차  | 과제명                                                    | 요약                                                                                                                                                                                                      |                            |
+|-----|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| 1주차 |                                                        | 작물모델링 실습 개요                                                                                                                                                                                             ||
+| 2주차 | - Julia 기초<br/> - Cropbox 실습                           | - Leaf Count Model<br/> - Maize Yield Model                                                                                                                                                             |[L01-Introduction.ipynb](https://github.com/jungjae0/LEC-CropModeling/blob/main/L01-Introduction.ipynb)                            |
+| 3주차 | - Growth Equations<br/>- Derivative vs. Analytic Forms | - Exponential Growth Equation<br/>- Monomolecular Equation<br/>- Logistic Growth Equation <br/>- Gompertz Growth Equatio<br/>- Chanter Growth Equatio<br/>- Exponential Growth Equation (Analytic Form) |[L02-Growth_Equations.ipynb](https://github.com/jungjae0/LEC-CropModeling/blob/main/L02-Growth_Equations.ipynb)                            |
